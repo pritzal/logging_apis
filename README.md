@@ -18,6 +18,7 @@ This FastAPI application allows you to log and manage application exceptions in 
 - FastAPI
 - MySQL
 - `logging_error_custom` library (ensure it is installed globally)
+- pip install -r requirements.txt
 
 ## Installation
 
@@ -27,13 +28,17 @@ This FastAPI application allows you to log and manage application exceptions in 
    git clone https://github.com/pritzal/logging_apis.git
    cd logging_apis
    
-##Create dotenv file as per your according
+## Create dotenv file as per your details
 
 DB_USER=<your_mysql_username>
 DB_PASSWORD=<your_mysql_password>
 DB_HOST=<your_mysql_host>
 DB_NAME=<your_database_name>
 
+## Running of Application
+
+- set FLASK_APP=app:create_app
+- python -m flask run 
 
 ### Summary of the Instructions:
 
