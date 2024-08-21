@@ -1,0 +1,53 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "id": 2,
+            "exception_details": "System.NullReferenceException: Object reference not set to an instance of an object.",
+            "message": "Test Null reference exception",
+            "exp_object": "Test Main Program",
+            "exp_process": "Test Initialization",
+            "application_id": 1,
+            "category_id": 2,
+            "created_datetime": "2024-08-20T09:47:53",
+            "inner_exception": "None",
+            "stack_trace": "at TestApp.Program.Main() in Program.cs:line 14"
+        },
+        {
+            "id": 3,
+            "exception_details": "System.NullReferenceException: Object reference not set to an instance of an object.",
+            "message": "Test Null reference exception",
+            "exp_object": "Test Main Program",
+            "exp_process": "Test Initialization",
+            "application_id": 1,
+            "category_id": 2,
+            "created_datetime": "2024-08-20T09:53:47",
+            "inner_exception": "None",
+            "stack_trace": "at TestApp.Program.Main() in Program.cs:line 14"
+        },
+        {
+            "id": 4,
+            "exception_details": "System.NullReferenceException: Object reference not set to an instance of an object.",
+            "message": "Test Null reference exception",
+            "exp_object": "Test Main Program",
+            "exp_process": "Test Initialization",
+            "application_id": 1,
+            "category_id": 2,
+            "created_datetime": "2024-08-20T09:59:02",
+            "inner_exception": "None",
+            "stack_trace": "at TestApp.Program.Main() in Program.cs:line 14"
+        },
+        {
+            "id": 5,
+            "exception_details": "System.NullReferenceException: Object reference not set to an instance of an object.",
+            "message": "Test Null reference exception",
+            "exp_object": "Test Main Program",
+            "exp_process": "Test Initialization",
+            "application_id": 1,
+            "category_id": 2,
+            "created_datetime": "2024-08-20T10:00:45",
+            "inner_exception": "None",
+            "stack_trace": "at TestApp.Program.Main() in Program.cs:line 14"
+        }
+    ]
+}

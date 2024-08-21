@@ -1,0 +1,10 @@
+{
+    "status": "success",
+    "data": {
+        "application_name": "TestApp",
+        "application_type": "Web",
+        "created_date": "2024-08-20T15:05:47",
+        "updated_date": "2024-08-20T15:05:47",
+        "user_id": null
+    }
+}

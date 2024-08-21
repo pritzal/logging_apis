@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dotenv
+logging_error_custom
+SQLAlchemy
+pymysql
+cryptography
+pydantic
+httpx
+pytest
+pytest-asyncio
